@@ -1,0 +1,9 @@
+{
+  "name": "Social Linux.Pizza",
+  "theme_color": "#222233",
+  "background_color": "#222233",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://social.linux.pizza/web/timelines/home",
+  "short_name": "social linux.pizza"
+}

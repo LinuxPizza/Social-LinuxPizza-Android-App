@@ -1,0 +1,1 @@
+social.linux.pizza är ett community som bygger på Mastodon. Denna app hjälper dig att ansluta dig till Fediversumet och med de personer du vill följa. Social.linux.pizza använder sig utav Mastodon bygger på federering. Du kan registrera dig på en eller flera Mastodon instanser som följa, interaktera och konversera med användare på andra instanser.

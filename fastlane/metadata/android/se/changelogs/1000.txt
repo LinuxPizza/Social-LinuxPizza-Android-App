@@ -1,0 +1,1 @@
+- Byggd på källkoden ifrån https://f-droid.org/en/packages/com.Sommerlichter.social/ - Version 1.3.2.0

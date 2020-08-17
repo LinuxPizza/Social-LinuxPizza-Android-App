@@ -1,0 +1,2 @@
+social.linux.pizza is a community based on the Mastodon network. This app is the entry into the fediverse to communicate with the people you like. social.linux.pizza uses Mastodon and it has some advantages. Instead on relying on a centralized infrastructure, Mastodon relies on a decentralized infrastructure.
+This app is a fork of koyu.space android app - be sure to check them out!
